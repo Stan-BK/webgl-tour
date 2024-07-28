@@ -1,0 +1,8 @@
+{
+  "scripts" : {
+    "parse": "ts-add-js-extension --dir=dist"
+  },
+  "devDependencies": {
+    "ts-add-js-extension": "^1.6.4"
+  }
+}

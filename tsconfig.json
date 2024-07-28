@@ -1,0 +1,8 @@
+{
+    "include": ["src/*"],
+    "compilerOptions": {
+        "outDir": "dist",
+        "module": "ES6",
+    },
+    "compileOnSave": true,
+}
